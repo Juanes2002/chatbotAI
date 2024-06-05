@@ -15,3 +15,7 @@
 ## Para correr el proyecto:
 - Corre el comando npm expo start, esto desplegara un codigo QR o diferentes maneras de correr la aplicacion.
 - Con el expo configurado en tu celular puedes abrir la camara y leer este codigo QR, de esta manera ya podrias hacer uso de la App.
+
+## Documantación necesaria:
+- https://ai.google.dev/gemini-api/docs/quickstart?hl=es-419&lang=node
+- https://docs.expo.dev/
